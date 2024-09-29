@@ -4,16 +4,15 @@ Welcome to the the GitHub repository for:
 
 ECE-3: Python Programming for Science & Engineering, Fall 2024.
 
-![UCSB Entrance](https://commons.wikimedia.org/wiki/File:University_of_California,_Santa_Barbara_Entrance.jpg)
 ### Instructor
 
-- [Y. Alp Aslandogan](https://www.ece.ucsb.edu/people/faculty/yuksel-aslandogan):
+Y. Alp Aslandogan, PhD
 
 TAs (Fall 2024): Aaditya Prakash Kattekola, Arghavan Zibaie, Karthik Somayaji, Utso Majumder, Pushpita Joardar, Oindrila Chatterjee.
 
 ### Interact with the course contents
 
-You can access and run the lecture slides and lab notebooks by clicking on the Binder link below.
+You can access and run the lecture slides and lab notebooks by clicking on the link below.
 
 TBA
 
@@ -36,6 +35,6 @@ The textbooks are freely available online.
 
 ### Syllabus
 
-More details are on the [syllabus](https://github.com/geometric-intelligence/ece3/blob/main/ece3_syllabus.pdf).
+More details are on the [syllabus](https://github.com/alp1991/ECE3_FALL24/blob/main/ece3_syllabus.pdf).
 
 Best wishes for the new quarter! ☺
