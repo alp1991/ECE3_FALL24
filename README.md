@@ -1,29 +1,21 @@
 # ECE-3: Python Programming for Science & Engineering
 
-Welcome!
+Welcome to the the GitHub repository for:
 
-This is the GitHub repository for the course:
+ECE-3: Python Programming for Science & Engineering, Fall 2024.
 
-ECE-3: Python Programming for Science & Engineering.
+![UCSB Entrance](https://commons.wikimedia.org/wiki/File:University_of_California,_Santa_Barbara_Entrance.jpg)
+### Instructor
 
-![alt text](https://github.com/geometric-intelligence/ece3/blob/main/lectures/figs/00_signal_processing.jpeg?raw=true)
+- [Y. Alp Aslandogan](https://www.ece.ucsb.edu/people/faculty/yuksel-aslandogan):
 
-### Teaching team
-
-From the [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/):
-
-- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane): Principal Instructor
-- [Daniel Kunin](https://daniel-kunin.com/): Co-Instructor
-- [David Klindt](https://david-klindt.github.io/): Co-Instructor
-- [Bongjin Koo](https://bongjinkoo.github.io/): Co-Instructor
-
-TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee, Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
+TAs (Fall 2024): Aaditya Prakash Kattekola, Arghavan Zibaie, Karthik Somayaji, Utso Majumder, Pushpita Joardar, Oindrila Chatterjee.
 
 ### Interact with the course contents
 
 You can access and run the lecture slides and lab notebooks by clicking on the Binder link below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geometric-intelligence/ece3/main?filepath=lectures)
+TBA
 
 ### Outline
 
