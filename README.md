@@ -18,7 +18,7 @@ TBA
 
 ### Outline
 
-- Unit 01: Welcome to Python
+- Unit 01: Introduction to Python
 - Unit 02: Computing with Data in Python
 - Unit 03: Summarizing Data in Python
 - Unit 04: Predicting from Data with Machine Learning in Python
@@ -32,6 +32,9 @@ The content of this class relies on the following excellent textbooks:
 - Unit 04: [Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie, Tibshirani, Taylor.
 
 The textbooks are freely available online. 
+
+Additional References:
+
 
 ### Syllabus
 
