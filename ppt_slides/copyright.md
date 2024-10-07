@@ -1,1 +1,1 @@
-Coopyright: Daniel Liang, Pearson.
+Copyright: Pearson Education Inc. (Author: Daniel Liang)
